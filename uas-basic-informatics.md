@@ -1,52 +1,22 @@
 # Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
-- Bagaimana membuat solusi dalam bentuk program yang efektif dan efisien
-- Langkahnya seperti apa untuk bisa menyelesaikan masalah, untuk lebih efektif, untuk lebih efisien
-- Ini dasar dari semua pembangunan produk keinformatikaan
+Computational Thinking adalah cara berpikir untuk menyelesaikan suatu masalah. Jika terdapat satu masalah yang rumit, dengan kemampuan ini kita dapat menyelesaikannya dengan efektif dan efisien. Pada intinya, computational thinking ini merupakan problem solving dengan efektif, efisien dan optimal. Maksud dari efektif yaitu "doing the right things" artinya melakukan sesuatu dengan benar sesuai dengan tujuan awal. Lalu efisien maksudnya yaitu "doing the right things right" artinya melakukan sesuatu dengan benar menggunakan resources yang benar pula seperti strategi, alat, dan juga cara nya. Maksud dari optimal disini yakni memposisikan segala hal sesuai dengan kondisi atau juga mencari solusi yang terbaik sesuai kondisinya. Selanjutnya untuk cara menyelesaikan masalah sesuai konsep computational thinking ini yaitu harus tau terlebih dahulu problemnya apa, lalu goals atau tujuannya apa, setelahnya ditemukan solusi atau problem solvingnya.
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
-- Karena solusi teknologi informasi itu ditaruh di mesin komputasi
-    - Mobil pintar
-    - Robot mini
-    - Drone pawai teratur
-    - Smartphone
-    - Game
-- Contoh
-    - PC
-    - Server
-    - Embedded computer
-    - Mobile phone
-    - Console
+Mesin komputasi adalah sebuah software ataupun hardware yang dibangun khusus untuk melakukan pemrosesan data. Yang berarti di dalam mesin tersebut terdapat peristiwa pemrosesan data yang biasanya digunakan untuk menyelasaikan masalah (problem solving) atau untuk tujuan tertentu. Berikut penjelasan dari beberapa jenis mesin komputasi.
+- Komputer dengan Embedded System, ini merupakan mesin komputasi berbentuk hardware yang didalamnya terdapat sistem tertanam dengan tujuan tertentu dan terhubung dengan sistem yang lebih besar. Komputer dengan Embedded System memiliki fungsi yang terbatas atau mungkin hanya bisa melakukan satu fungsi atau satu rangkaian algoritma. Misalnya Mesin Cuci, ini merupakan salah satu mesin komputasi embedded system dengan tujuan untuk memutarkan tubin sebagai pencuci baju didalam tabung.
+- Komputer Wearable, ini merupakan mesin komputasi yang bisa dipakai dimanapun dan kapanpun seperti aksesoris. Komputer wearable memiliki sensor atau sistem komputasi lain untuk mendukung penggunaannya dan biasanya mesin komputasi ini memiliki ukuran yang kecil sehingga mudah untuk dibawa kemanapun. Kekurangan dari mesin komputasi ini yaitu memiliki fungsi yang terbatas sesuai kepada fokusnya, namun ini akan berguna jika digunakan untuk kebutuhan yang spesifik. Misalnya Kacamata Canggih, selain bisa untuk melihat atau sekedar fashion, kacamata canggih dapat digunakan untuk merekam video atau memotret karena terdapat kamera didalamnya. Namun yang namanya teknologi pasti akan selalu berkembang, mungkin di kemudian hari kacamata tersebut tidak hanya dapat melihat dan merekam saja tetapi lebih daripada itu.
+- Superkomputer, tentunya termasuk kedalam mesin komputasi karena sesuai dengan konsep mesin komputasi yaitu mesin pemrosesan data yang berguna untuk problem solving, superkomputer ini merupakan komputer dengan versi pro, premium, ataupun super yang berarti lebih baik dari komputer biasanya. Superkomputer berguna untuk memroses data yang sangat besar dengan cepat tanpa adanya masalah baru yang didapat karena memroses data besar dan biasanya Superkomputer ini digunakan untuk pengembangan penelitian atau riset ilmiah yang tentunya akan berpengaruh terhadap perkembangan ilmu. Investor Superkomputer ini pun bukanlah orang biasa, namun pemerintah atau perusahaan besar lain karena Superkomputer membutuhkan biaya operasional yang tinggi.
 
-## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
-- Karena akan memudahkan latihan coding, membangun model AI, hingga riset di berbagai bidang
+## Mengaktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+https://youtu.be/mfaOjLHkMeU
 
 ## Mencoba Console Sistem Operasi
 - Karena console
     - Interface paling dasar yang bisa manusia dan aplikasi pergunakan untuk mengakses program di sistem operasi
     - Ketika membangun solusi digital berbasis client-server, akan banyak konfigurasi dan optimalisasi program memanfaatkan console
     - Program berbasis console jauh lebih cepat dari program berbasis GUI
-
-### Console di Windows / Mac: Windows CMD [v] ⭐⭐⭐⭐
-
-Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
-
-### Console di Linux: Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
-
-Contoh di Google Colab:
-
-List di direktori ini ada file dan folder apa aja:
-```py
-!ls
-```
-
-Print saya sekarang ada di posisi mana
-```py
-!pwd
-```
-
-- [Linux Command Cheat Sheet](https://phoenixnap.com/kb/linux-commands-cheat-sheet)
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 - Contoh:
