@@ -49,9 +49,6 @@ Link : https://youtu.be/pw7qG3fnmGk
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 Link : https://youtu.be/ajzSp1y_33Q
 
-Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
-Referensi tambahan [1](https://db-engines.com/en/ranking)
-
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 - Eksplorasi dan pengelolaan database, paling dasar bisa menggunakan console
 - Database explorer, seperti Navicat (berbayar) dan Dbeaver, adalah aplikasi eksplorasi dan pengelolaan database berbasis GUI, yang bisa terhubung ke berbagai jenis database
@@ -80,12 +77,12 @@ Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
-
-Referensi tool:
-- https://who.is/whois/detik.com
-- https://www.nslookup.io/domains/detik.com/webservers/
-
-Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
+Kompas.com : https://who.is/whois/kompas.com
+Canva.com : https://who.is/whois/canva.com
+Bilibili.tv : https://who.is/whois/bilibili.tv
+![image](https://github.com/mdyoo129/task/assets/144449995/a70125ba-74d7-424c-ad49-d5395ad26d96)
+![image](https://github.com/mdyoo129/task/assets/144449995/54470a07-39bf-44df-a2ae-e23b76c9bc59)
+![image](https://github.com/mdyoo129/task/assets/144449995/9e0098c0-6d6c-4c6d-8eb9-92458af5e906)
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
