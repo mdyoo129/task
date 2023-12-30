@@ -10,33 +10,25 @@ Mesin komputasi adalah sebuah software ataupun hardware yang dibangun khusus unt
 - Superkomputer, tentunya termasuk kedalam mesin komputasi karena sesuai dengan konsep mesin komputasi yaitu mesin pemrosesan data yang berguna untuk problem solving, superkomputer ini merupakan komputer dengan versi pro, premium, ataupun super yang berarti lebih baik dari komputer biasanya. Superkomputer berguna untuk memroses data yang sangat besar dengan cepat tanpa adanya masalah baru yang didapat karena memroses data besar dan biasanya Superkomputer ini digunakan untuk pengembangan penelitian atau riset ilmiah yang tentunya akan berpengaruh terhadap perkembangan ilmu. Investor Superkomputer ini pun bukanlah orang biasa, namun pemerintah atau perusahaan besar lain karena Superkomputer membutuhkan biaya operasional yang tinggi.
 
 ## Mengaktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
-https://youtu.be/mfaOjLHkMeU
+Link : https://youtu.be/mfaOjLHkMeU
 
 ## Mencoba Console Sistem Operasi
-- Karena console
-    - Interface paling dasar yang bisa manusia dan aplikasi pergunakan untuk mengakses program di sistem operasi
-    - Ketika membangun solusi digital berbasis client-server, akan banyak konfigurasi dan optimalisasi program memanfaatkan console
-    - Program berbasis console jauh lebih cepat dari program berbasis GUI
+### Console di Windows / Mac: Windows CMD [v] ⭐⭐⭐⭐
+Link : https://youtu.be/L_wJyfvXZHk
+
+### Console di Linux: Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+Link : https://youtu.be/fPBPe1PGPm0
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
-- Contoh:
-    - Flowchart daftar ulang perkuliahan
-    - Flowchart musuh di game mengejar karakter
-    - Flowchart bayar pajak STNK
-    - Flowchart membuat paspor
-    - Flowchart sortir daftar mahasiswa
-    - Flowchart login Instagram
+![Algoritma Memasak Tumis Tempe](https://github.com/mdyoo129/task/assets/144449995/1043e9a0-5965-4ed0-aa54-cdc0764d5e7a)
 
-Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
 Referensi [1](https://scratch.mit.edu/)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
-- Beri penjelasan
-- Beri komentar, bahasa indonesia
-- Lebih bagus buat juga flowchart nya
+Link : https://youtu.be/pw7qG3fnmGk
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 - IDE / text editor berplugin digunakan untuk membangun program menggunakan bahasa pemrograman
@@ -55,7 +47,7 @@ Referensi [1](https://scratch.mit.edu/)
 - Menggunakan evaluasi tengah semester
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
-- Karena semua aplikasi terutama berbasis internet saat ini seperti Instagram, Youtube, Github, Tokopedia, BPJS, Internet Banking, semua, pake database
+Link : https://youtu.be/ajzSp1y_33Q
 
 Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
 Referensi tambahan [1](https://db-engines.com/en/ranking)
@@ -162,8 +154,10 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
+Link : https://youtu.be/vuFZvsYOC8Y
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
+Link : https://youtu.be/CuxBmw-k0qA
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 ![Alt text](https://cdn.serc.carleton.edu/images/NAGTWorkshops/complexsystems/netlogo_aquarium_macro-level_m.webp)
@@ -203,6 +197,9 @@ Referensi:
 - https://www.kaggle.com
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+![Dashboard-MyMQTT](https://github.com/mdyoo129/task/assets/144449995/cf46ba8d-d6fc-45ee-a35e-26a99d9b4506)
+![Subscribe-MyMQTT](https://github.com/mdyoo129/task/assets/144449995/59c31517-6d67-4d0e-b106-b27e9f9cfa8e)
+![Publish-MyMQTT](https://github.com/mdyoo129/task/assets/144449995/25a884e0-c5cd-4191-9d5c-a39cdda15bfb)
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 Referensi:
@@ -227,8 +224,10 @@ Referensi:
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
+Link : https://youtu.be/hGHYj87vrY4
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
+Link : https://youtu.be/AEG9WaDLUgU
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
@@ -247,5 +246,7 @@ Referensi:
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+![Sertifikat Course IT](https://github.com/mdyoo129/task/assets/144449995/0d5b0fee-23d8-4178-879d-398aae08b930)
+
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
