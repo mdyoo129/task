@@ -22,22 +22,14 @@ Link : https://youtu.be/fPBPe1PGPm0
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 ![Algoritma Memasak Tumis Tempe](https://github.com/mdyoo129/task/assets/144449995/1043e9a0-5965-4ed0-aa54-cdc0764d5e7a)
 
-
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
-
-Referensi [1](https://scratch.mit.edu/)
+Link : https://youtu.be/hzSAw6BE_q4
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 Link : https://youtu.be/pw7qG3fnmGk
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
-- IDE / text editor berplugin digunakan untuk membangun program menggunakan bahasa pemrograman
-- Contoh:
-    - VS Code
-    - Unity
-    - Android Studio
-    - Notepad ++
-    - Vim
+Link : https://youtu.be/T5mBFe22ydw
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 - Sebagai developer
