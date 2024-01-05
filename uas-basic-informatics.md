@@ -42,29 +42,13 @@ Link : https://youtu.be/T5mBFe22ydw
 Link : https://youtu.be/ajzSp1y_33Q
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
-- Eksplorasi dan pengelolaan database, paling dasar bisa menggunakan console
-- Database explorer, seperti Navicat (berbayar) dan Dbeaver, adalah aplikasi eksplorasi dan pengelolaan database berbasis GUI, yang bisa terhubung ke berbagai jenis database
-- Task
-    1. Berhasil koneksi ke database yang sudah diinstall (PostgreSQL / MySQL)
-    2. Mencoba membuat table baru
-    3. Mencoba bahasa SQL untuk query data
-
-Referensi tutorial [PostgreSQL](https://www.youtube.com/watch?v=efEaVGYl5_I&pp=ygUaZGJlYXZlciBjb25uZWN0IHBvc3RncmVzcWw%3D)
-Referensi tutorial [MySQL](https://www.youtube.com/watch?v=3kq_xQAvJCs)
-
-Referensi installer [Dbeaver](https://dbeaver.io/download/)
-Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
+Link : https://youtu.be/kedO8rmqxoE
 
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
-- Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
-- Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
-- Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
-- Jelaskan sederhana cara kerjanya
+Link : https://youtu.be/hNuDAfaB7Fc
 
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
-- Karena URL tidak hanya dipakai untuk manusia akses ke browser
-- Penggunaan utamanya saat ini adalah integrasi data misal antara Front End dan Backend, atau antara aplikasi mobile dengan server menggunakan protokol komunikasi RESTful API
-- Jadi resource itu apa sih, di kata URL ini ?
+Link : https://youtu.be/Eh24OH3GoNw
 
 Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
 
