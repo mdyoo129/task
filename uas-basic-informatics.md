@@ -183,6 +183,10 @@ Referensi:
 - https://colab.research.google.com/drive/1pA5MgfR5JaBdVfbKSq5G05pZD60EuK6J?usp=sharing
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
+- Jurnal adalah sebuah catatan atau tulisan yang teratur dan sistematis mengenai kegiatan atau peristiwa yang telah terjadi. Di dalam dunia pendidikan atau akademik, jurnal merupakan publikasi ilmiah yang berisi mengenai hasil kajian seseorang ataupun kajian peneliti yang mana dapat disebarluaskan agar dapat bermanfaat bagi perkembangan ilmu pengetahuan.
+- Conference atau dalam bahasa indonesia adalah konferensi, merupakan sebuah pertemuan penelitian dimana semua peneliti, akademisi, maupun praktisi berkumpul untuk menunjukan dan mempresentasikan hasil penelitian mereka. Dalam conference, peneliti, akademisi, dan praktisi dapat berbagi informasi mengenai perkembangan ilmu di bidang masing-masing sehingga dapat berdiskusi dengan orang profesional di bidang yang sama maupun bidang yang berbeda daan tentunya ini akan membuat sebuah jaringan sosial ataupun perluasan relasi bagi setiap orang yang ikut.
+- Artikel merupakan sebuah tulisan yang berisi suatu topik tertentu. Untuk artikel ilmiah, biasanya artikel tersebut berisi sebuah laporan penelitian, atau penjelasan kritis maupun penilaian yang teoritis terhadap suatu topik, dapat pula berupa ulasan literatur terhadap suatu topik tertentu.
+- Sesuai namanya yaitu grade, Grade Jurnal ini merupakan sebuah peringkat jurnal yang mana jurnal-jurnal diklasifikasikan sesuai dengan kategori yang ada. Biasanya jurnal di peringkat-kan sesuai dengan pengaruhnya terhadap bidang yang terkait, misalkan seberapa besar dampaknya terhadap perkembangan ilmu bidang A, ataupun seberapa sering suatu jurnal mengutip artikel hasil penelitian lain. Ini berguna agar peng-akses jurnal dapat dengan mudah mengetahui mana jurnal yang baik untuk dibaca ataupun dikutip.
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 - https://ieeexplore.ieee.org/Xplore/home.jsp
