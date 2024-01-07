@@ -50,8 +50,6 @@ Link : https://youtu.be/hNuDAfaB7Fc
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 Link : https://youtu.be/Eh24OH3GoNw
 
-Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
-
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 Kompas.com : https://who.is/whois/kompas.com
 Canva.com : https://who.is/whois/canva.com
@@ -117,7 +115,7 @@ Contoh:
 - [CatFact](https://catfact.ninja/fact)
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
-- Karena ini tools utama untuk mendiagnosis halaman web, memanipulasi halaman web, otomasi, kondisi respon dari server, dsb.
+Link : https://youtu.be/G5bSBzvgAnA
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
@@ -138,6 +136,7 @@ Link : https://youtu.be/CuxBmw-k0qA
 - [Netlogo](https://ccl.northwestern.edu/netlogo/)
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
+Link : https://youtu.be/ycO8P0-ZwUI
 
 Referensi:
 - https://colab.research.google.com/github/goodboychan/chans_jupyter/blob/main/_notebooks/2020-07-31-01-Introducing-Image-Processing-and-scikit-image.ipynb
@@ -199,6 +198,7 @@ Referensi:
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
+Link : https://youtu.be/6sBvsWKBHBs
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 Link : https://youtu.be/hGHYj87vrY4
@@ -207,23 +207,24 @@ Link : https://youtu.be/hGHYj87vrY4
 Link : https://youtu.be/AEG9WaDLUgU
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
+![Lowongan Pekerjaan IT](https://github.com/mdyoo129/task/assets/144449995/a4cc5164-30cb-41c8-bf93-3df336e51943)
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+![Lowongan Freelancer IT](https://github.com/mdyoo129/task/assets/144449995/c99bbe00-9a39-435d-ad36-e0b61aabaac1)
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
-Referensi:
-- https://roadmap.sh/
+![Roadmap AI and Data Scientist](https://github.com/mdyoo129/task/assets/144449995/de1f6e51-795f-4250-b195-d60ec23d8ffc)
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
-Referensi:
-- https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Top-100-stars.md
+https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-id.md
+![Free Programming Book](https://github.com/mdyoo129/task/assets/144449995/9e90cc7e-1078-4c62-8489-a0782300f7ee)
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
+Link : https://youtu.be/pcRnMG1uph0
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 ![Sertifikat Course IT](https://github.com/mdyoo129/task/assets/144449995/0d5b0fee-23d8-4178-879d-398aae08b930)
-
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
