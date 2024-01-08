@@ -152,13 +152,10 @@ Referensi:
 - https://s.id/ds-braga
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
-
-Referensi:
-- [Looker Studio](https://lookerstudio.google.com/)
+Link : https://youtu.be/TlNDufM7GS4
 
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
-Referensi:
-- [ChartJS](https://www.chartjs.org/docs/latest/getting-started/)
+Link : https://youtu.be/Grlxo8xykuM
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 Referensi:
@@ -174,12 +171,10 @@ Referensi:
 ![Publish-MyMQTT](https://github.com/mdyoo129/task/assets/144449995/25a884e0-c5cd-4191-9d5c-a39cdda15bfb)
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
-Referensi:
-- https://colab.research.google.com/drive/1AMLJIYM4r-uirkf1mKrkmqHAAgXTTwww?usp=sharing
+Link : https://youtu.be/0AS2QTCBFEc
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
-Referensi:
-- https://colab.research.google.com/drive/1pA5MgfR5JaBdVfbKSq5G05pZD60EuK6J?usp=sharing
+Link : https://youtu.be/f_Znxo7eS3I
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 - Jurnal adalah sebuah catatan atau tulisan yang teratur dan sistematis mengenai kegiatan atau peristiwa yang telah terjadi. Di dalam dunia pendidikan atau akademik, jurnal merupakan publikasi ilmiah yang berisi mengenai hasil kajian seseorang ataupun kajian peneliti yang mana dapat disebarluaskan agar dapat bermanfaat bagi perkembangan ilmu pengetahuan.
