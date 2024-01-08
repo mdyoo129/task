@@ -188,12 +188,18 @@ Referensi:
 - Sesuai namanya yaitu grade, Grade Jurnal ini merupakan sebuah peringkat jurnal yang mana jurnal-jurnal diklasifikasikan sesuai dengan kategori yang ada. Biasanya jurnal di peringkat-kan sesuai dengan pengaruhnya terhadap bidang yang terkait, misalkan seberapa besar dampaknya terhadap perkembangan ilmu bidang A, ataupun seberapa sering suatu jurnal mengutip artikel hasil penelitian lain. Ini berguna agar peng-akses jurnal dapat dengan mudah mengetahui mana jurnal yang baik untuk dibaca ataupun dikutip.
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
-- https://ieeexplore.ieee.org/Xplore/home.jsp
-- https://arxiv.org/
-- https://www.sciencedirect.com/
-- https://dl.acm.org/
-- https://dblp.org/
-- Eksplorasi juga jurnal yang disuka di https://www.scimagojr.com/
+- IEEE - Articles
+![image](https://github.com/mdyoo129/task/assets/144449995/506f3bd0-f47f-4cab-a894-1eeb1204ea73)
+- Arxiv - Journal
+![image](https://github.com/mdyoo129/task/assets/144449995/65214910-6dae-4043-aca7-0d11f2f83d05)
+- Science Direct - Journal
+![image](https://github.com/mdyoo129/task/assets/144449995/111d3a7f-9049-45dd-a1c9-8d2c6d73cabf)
+- ACM - Conference
+![BCB](https://github.com/mdyoo129/task/assets/144449995/ec9c6a4a-a9e3-493c-8bd3-882a15a36fe1)
+- DBLP - Conference
+![I3D](https://github.com/mdyoo129/task/assets/144449995/b4be07c7-f400-4d65-8c16-b508c60a2971)
+- Scimagojr - Journal
+![Current Climate Change Report](https://github.com/mdyoo129/task/assets/144449995/79632156-95bb-431d-a184-dfc31ec8599f)
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
@@ -225,6 +231,94 @@ https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-p
 Link : https://youtu.be/pcRnMG1uph0
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+Sistem Analis
+- Sistem analis adalah orang yang dapat menganalisis bisnis, mengidentifikasi peluang perbaikan, dan merancang sistem informasi untuk mengimplementasikan sebuah ide. Peran dari sistem analisis sendiri yakni mengidentifikasi bagaimana teknologi dapat meningkatkan proses bisnis, lalu merancang proses bisnis baru dan sistem informasi dan juga memastikan bahwa sistem sesuai dengan sistem informasi. Tujuan dari sistem analis sendiri yakni mengidentifikasi masalah, menyediakan solusi yang efisien, meningkatkan produktivitas dan efisiensi operasional organisasi, lalu mengintegrasikan teknologi informasi dan komunikasi secara efektif dan memastikan keamanan sebuah informasi.
+
+Siklus hidup pengembangan sistem (SDLC) dan kelas dari SDLC dimulai dari planning (perencanaan) lalu analysis, design dan implementation. SDLC terbagi menjadi 3 kelas, yakni Structured Development, Rapid Application Development, dan Agile Development yang ketiganya memiliki pengembangan sistem yang berbeda. Structured Development terdiri dari Waterfall Development dan Parallel Development, Rapid Application Development terdiri dari Phased Development dan Prototyping, Agile Development terdiri dari eXtreme Programming (XP) dan Scrum.
+
+- Analisis Kebutuhan
+Fungsional : Merujuk pada fitur atau fungsi spesifik yang diharapkan dari sistem atau perangkat lunak. Ini melibatkan fungsi bisnis, interaksi pengguna, pemrosesan data, dan fungsi keamanan.
+Non-Fungsional : Karakteristik atau kualitas yang menggambarkan cara sistem harus beroperasi, tanpa merinci apa yang sebenarnya dilakukan oleh sistem. Ini melibatkan operational, performance, reliability, safety, security, dan juga usability.
+
+- Model Proses Bisnis
+Model proses bisnis merupakan representasi visual dari langkah-langkah atau aktivitas yang terlibat dalam menjalankan suatu proses bisnis. Ada beberapa jenis model proses bisnis, yakni use-case, flowchart, dan diagram alur kerja (workflow).
+Untuk pengumpulan data dan informasi, dapat dengan melakukan wawancara yaitu berinteraksi langsung dengan responden, lalu dengan kuesioner yaitu menyajikan pertanyaan dalam formulir tertulis, dan juga dengan observasi yaitu mengamati secara langsung.
+
+- Etika dan Tanggung Jawab Sistem Analis
+Sistem analis bertanggung jawab akan integritas, kerahasiaan data, dan penggunaan teknologi dengan mempertimbangkan moral. Memastikan keberlanjutan keamanan dan kepatuhan terhadap standar etika dalam pengembangan dan implementasi sistem.
+
+- Tantangan Menjadi Sistem Analis
+    1) Ketidakjelasan kebutuhan pengguna
+    2) Perubahan kebutuhan
+    3) Pembaruan dan modernisasi sistem
+    4) Komunikasi
+    5) Ketidakpastian lingkungan bisnis
+
+UI/UX
+- UI (User Interface) merupakan elemen interaksi manusia dengan teknologi. UX (User Experience) merupakan pengalaman keseluruhan menggunakan produk. Adanya UX menjadi penting karena merupakan kunci dari kesuksesan sebuah produk, dan mampu menciptakan pengalaman yang dapat memuaskan pengguna. UI & UX erat terkait, namun keduanya merupakan hal yang berbeda.
+
+- UX Fundamentals
+A. Definisi dan Konsep Dasar UX:
+    • UX (User Experience): Keseluruhan pengalaman pengguna menggunakan produk.
+    • Konsep: Fokus pada kepuasan, kegunaan, dan efisiensi.
+B. User-Centered Design (UCD):
+    • Pendekatan desain berorientasi pengguna.
+    • Memahami kebutuhan dan perspektif pengguna.
+C. Principles of Usability:
+    • Keterlibatan pengguna yang baik.
+    • Konsistensi, efisiensi, dan kejelasan.
+D. Importance of User Research:
+    • Mendalaminya untuk memahami pengguna.
+    • Dasar untuk pengambilan keputusan desain yang tepat.
+
+- Visual Design Basic
+A. Konsep Dasar Desain Visual:
+    • Memahami estetika dan harmoni visual.
+    • Mengutamakan tata letak dan elemen desain.
+B. Penggunaan Warna, Tipografi, dan Gambar:
+    • Warna: Makna dan psikologi.
+    • Tipografi: Keterbacaan dan branding.
+    • Gambar: Relevansi dan kualitas.
+C. Hierarchy in Design:
+    • Pentingnya susunan elemen.
+    • Fokus pada elemen kunci.
+D. Consistency in Visual Elements:
+    • Pemeliharaan konsistensi desain.
+    • Menciptakan pengalaman yang dapat diandalkan.
+
+- UI Design Pattern Overview
+A. Pengertian UI Design Patterns:
+    • Pola desain yang telah terbukti efektif.
+    • Solusi umum untuk masalah desain spesifik.
+B. Contoh UI Design Patterns yang Umum:
+    • Menu navigasi tersembunyi.
+    • Tombol floating action untuk tindakan. utama.
+    • Carousel untuk penampilan konten.
+C. Keuntungan Menggunakan Design Patterns:
+    • Konsistensi antar pengalaman pengguna.
+    • Efisiensi desain dan pengembangan,
+    • Peningkatan pemahaman pengguna.
+
+- Proses Design End-to-End
+  1) Empathize
+  2) Stakeholder Interview & Meeting
+  3) Research Learning Spiral
+  4) Common Methodologies
+  5) Planning Research
+
+- Fokus dan Manfaat Style Guide (UI & UX)
+Style guide atau panduan gaya adalah dokumen rinci mengenai aturan dan pedoman yang harus diikuti dalam pengembangan dan penyusunan materi tertulis atau desain UIX. Berikut beberapa fokus & manfaatnya :
+  1) UI Style Guide : Fokus pada aspek visual dan presentasi antarmuka pengguna. Menetapkan aturan terkait dengan tata letak, warna, tipografi, Ikon, elemen desain grafis, dan elemen visual lainnya. Mengarahkan bagaimana elemen-elemen ini harus disusun dan diatur dalam suatu antarmuka.
+  2) UX Style Guide : Lebih berfokus pada aspek fungsional dan pengalaman pengguna. Mencakup pedoman untuk navigasi, interaksi pengguna, responsivitas, dan prinsip-prinsip desain pengalaman pengguna. Menetapkan aturan terkait dengan pengalaman pengguna secara keseluruhan, termasuk bagaimana pengguna berinteraksi dengan elemen-elemen antarmuka dan bagaimana pengguna harus merasakan produk atau layanan.
+
+- Tantangan Menjadi UX Design
+  1) Diversitas Pengguna
+  2) Konsistensi
+  3) Optimasi Kinerja
+  4) Desain Ringan
+  5) Menghadapi Ketidakpastian
+  6) Mengatasi Kehilangan Perhatian Pengguna
+
 ![Sertifikat Course IT](https://github.com/mdyoo129/task/assets/144449995/0d5b0fee-23d8-4178-879d-398aae08b930)
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
