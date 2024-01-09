@@ -221,6 +221,8 @@ https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-p
 ![Free Programming Book](https://github.com/mdyoo129/task/assets/144449995/9e90cc7e-1078-4c62-8489-a0782300f7ee)
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+![Profile](https://github.com/mdyoo129/task/assets/144449995/91320885-889e-4559-9096-7e21bc91616b)
+![Following](https://github.com/mdyoo129/task/assets/144449995/339f819f-daf1-4c11-815c-fc5212aef472)
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 Link : https://youtu.be/pcRnMG1uph0
