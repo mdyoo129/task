@@ -78,27 +78,7 @@ Referensi:
 - [On page SEO](https://backlinko.com/on-page-seo)
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
-- Karena JSON sekarang format representasi data paling populer digunakan baik untuk pengguna manusia dan utamanya untuk integrasi data antar aplikasi. Gojek ke BNI, UIN ke Kemenag, Kementerian ke KSP, aplikasi kasir ke server utama, Instagram App ke server Instagram, backup data mahasiswa
-
-```json
-{
-    "nama_data": "List Mahasiswa 2023",
-    "isi_data": [
-        {
-            "nim": "93487534",
-            "nama": "Aden",
-            "tl": 2005,
-            "aktif": true
-        },
-        {
-            "nim": "93487535",
-            "nama": "Juli",
-            "tl": 2005,
-            "aktif": true
-        }
-    ]
-}
-```
+Link : https://youtu.be/XcwgR3Tkgco
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
@@ -118,9 +98,7 @@ Contoh:
 Link : https://youtu.be/G5bSBzvgAnA
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
-Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
-
-Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
+Link : https://youtu.be/aaZVx_wUXDU
 
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
@@ -131,23 +109,16 @@ Link : https://youtu.be/vuFZvsYOC8Y
 Link : https://youtu.be/CuxBmw-k0qA
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
-![Alt text](https://cdn.serc.carleton.edu/images/NAGTWorkshops/complexsystems/netlogo_aquarium_macro-level_m.webp)
-- [Starlogo](https://education.mit.edu/project/starlogo-tng/)
-- [Netlogo](https://ccl.northwestern.edu/netlogo/)
+![Followers](https://github.com/mdyoo129/task/assets/144449995/e801f813-c07e-4b09-a23c-59fb33c86778)
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 Link : https://youtu.be/ycO8P0-ZwUI
 
-Referensi:
-- https://colab.research.google.com/github/goodboychan/chans_jupyter/blob/main/_notebooks/2020-07-31-01-Introducing-Image-Processing-and-scikit-image.ipynb
-- [Gambar](https://gitlab.com/marchgis/march-ed/2023/courses/if216006-praktikum-sistem-multimedia/-/tree/main/modul-2)
-
-## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
-
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
+Link : https://youtu.be/YjPbqAfiN1E
+![Epic Jungle](https://github.com/mdyoo129/task/assets/144449995/2742dfcb-cb0e-475d-b936-cab95797f892)
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
-
 Referensi:
 - https://s.id/ds-braga
 
@@ -158,12 +129,10 @@ Link : https://youtu.be/TlNDufM7GS4
 Link : https://youtu.be/Grlxo8xykuM
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
-Referensi:
-- [Huggingface](https://huggingface.co/)
-- [Contoh penggunaan di Google Colab](https://colab.research.google.com/drive/1mcMiav2NBk4UcnttAuB4reSCeWuywjmj?usp=sharing)
+Link : https://youtu.be/WQrY_gK4yWg
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
-- https://www.kaggle.com
+Link : https://youtu.be/AuZNjp_j96E
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 ![Dashboard-MyMQTT](https://github.com/mdyoo129/task/assets/144449995/cf46ba8d-d6fc-45ee-a35e-26a99d9b4506)
