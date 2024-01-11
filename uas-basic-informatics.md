@@ -32,8 +32,7 @@ Link : https://youtu.be/pw7qG3fnmGk
 Link : https://youtu.be/T5mBFe22ydw
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
-- Sebagai developer
-- Selesaikan topics : Algorithms / Data Structure / Mathematics, boleh pake bahasa apapun
+Link : https://youtu.be/Zun8fgUsph0
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 - Menggunakan evaluasi tengah semester
@@ -51,11 +50,11 @@ Link : https://youtu.be/hNuDAfaB7Fc
 Link : https://youtu.be/Eh24OH3GoNw
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
-Kompas.com : https://who.is/whois/kompas.com
-Canva.com : https://who.is/whois/canva.com
-Bilibili.tv : https://who.is/whois/bilibili.tv
+- Kompas.com : https://who.is/whois/kompas.com
 ![image](https://github.com/mdyoo129/task/assets/144449995/a70125ba-74d7-424c-ad49-d5395ad26d96)
+- Canva.com : https://who.is/whois/canva.com
 ![image](https://github.com/mdyoo129/task/assets/144449995/54470a07-39bf-44df-a2ae-e23b76c9bc59)
+- Bilibili.tv : https://who.is/whois/bilibili.tv
 ![image](https://github.com/mdyoo129/task/assets/144449995/9e0098c0-6d6c-4c6d-8eb9-92458af5e906)
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
@@ -66,16 +65,7 @@ Referensi tutorial
 - Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
-
-Teknik:
-- On page - yang bisa kita lakukan di halaman HTML kita sendiri
-- Off page - yang bisa kita harapkan dilakukan pihak lain terhadap kita
-
-Studi kasus:
-- Wordpress SEO
-
-Referensi:
-- [On page SEO](https://backlinko.com/on-page-seo)
+Link : https://youtu.be/WISaj54shQU
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 Link : https://youtu.be/XcwgR3Tkgco
@@ -87,12 +77,10 @@ Tips:
 - Gratis ? malah dikasih credit: Google Cloud Platform / Amazon Web Service
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
+Link : https://youtu.be/UVSBaHQUbAk
 
 ## Mencoba HTTP Request dan Web API dengan HTTP Client Hoppscotch / Postman [v] ⭐⭐
-
-Contoh:
-- [Kumpulan public API untuk dicoba2](https://github.com/public-apis/public-apis)
-- [CatFact](https://catfact.ninja/fact)
+Link : https://youtu.be/gEZeGec5ye4
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 Link : https://youtu.be/G5bSBzvgAnA
@@ -101,6 +89,8 @@ Link : https://youtu.be/G5bSBzvgAnA
 Link : https://youtu.be/aaZVx_wUXDU
 
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
+https://mdyorf.wordpress.com/?p=12
+![Wordpress](https://github.com/mdyoo129/task/assets/144449995/c588a1c6-bdeb-4bf6-aec6-eb50892b4da0)
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 Link : https://youtu.be/vuFZvsYOC8Y
@@ -119,8 +109,7 @@ Link : https://youtu.be/YjPbqAfiN1E
 ![Epic Jungle](https://github.com/mdyoo129/task/assets/144449995/2742dfcb-cb0e-475d-b936-cab95797f892)
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
-Referensi:
-- https://s.id/ds-braga
+Link : https://youtu.be/65QOv_XpL08
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 Link : https://youtu.be/TlNDufM7GS4
@@ -200,7 +189,7 @@ Link : https://youtu.be/pcRnMG1uph0
 Sistem Analis
 - Sistem analis adalah orang yang dapat menganalisis bisnis, mengidentifikasi peluang perbaikan, dan merancang sistem informasi untuk mengimplementasikan sebuah ide. Peran dari sistem analisis sendiri yakni mengidentifikasi bagaimana teknologi dapat meningkatkan proses bisnis, lalu merancang proses bisnis baru dan sistem informasi dan juga memastikan bahwa sistem sesuai dengan sistem informasi. Tujuan dari sistem analis sendiri yakni mengidentifikasi masalah, menyediakan solusi yang efisien, meningkatkan produktivitas dan efisiensi operasional organisasi, lalu mengintegrasikan teknologi informasi dan komunikasi secara efektif dan memastikan keamanan sebuah informasi.
 
-Siklus hidup pengembangan sistem (SDLC) dan kelas dari SDLC dimulai dari planning (perencanaan) lalu analysis, design dan implementation. SDLC terbagi menjadi 3 kelas, yakni Structured Development, Rapid Application Development, dan Agile Development yang ketiganya memiliki pengembangan sistem yang berbeda. Structured Development terdiri dari Waterfall Development dan Parallel Development, Rapid Application Development terdiri dari Phased Development dan Prototyping, Agile Development terdiri dari eXtreme Programming (XP) dan Scrum.
+- Siklus hidup pengembangan sistem (SDLC) dan kelas dari SDLC dimulai dari planning (perencanaan) lalu analysis, design dan implementation. SDLC terbagi menjadi 3 kelas, yakni Structured Development, Rapid Application Development, dan Agile Development yang ketiganya memiliki pengembangan sistem yang berbeda. Structured Development terdiri dari Waterfall Development dan Parallel Development, Rapid Application Development terdiri dari Phased Development dan Prototyping, Agile Development terdiri dari eXtreme Programming (XP) dan Scrum.
 
 - Analisis Kebutuhan
 Fungsional : Merujuk pada fitur atau fungsi spesifik yang diharapkan dari sistem atau perangkat lunak. Ini melibatkan fungsi bisnis, interaksi pengguna, pemrosesan data, dan fungsi keamanan.
