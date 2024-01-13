@@ -58,11 +58,7 @@ Link : https://youtu.be/Eh24OH3GoNw
 ![image](https://github.com/mdyoo129/task/assets/144449995/9e0098c0-6d6c-4c6d-8eb9-92458af5e906)
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
-
-Referensi tutorial 
-- Isi konten halaman web : [HTML](https://www.w3schools.com/html/)
-- Styling halaman web : [CSS](https://www.w3schools.com/css/)
-- Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
+Link : https://youtu.be/Ss1fZmpU6bk
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 Link : https://youtu.be/WISaj54shQU
@@ -71,10 +67,7 @@ Link : https://youtu.be/WISaj54shQU
 Link : https://youtu.be/XcwgR3Tkgco
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
-
-Tips:
-- Cari di Google: web hosting murah bulanan indonesia
-- Gratis ? malah dikasih credit: Google Cloud Platform / Amazon Web Service
+Link : https://youtu.be/cRKTGEKTgVg
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 Link : https://youtu.be/UVSBaHQUbAk
