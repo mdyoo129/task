@@ -35,7 +35,7 @@ Link : https://youtu.be/T5mBFe22ydw
 Link : https://youtu.be/Zun8fgUsph0
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
-- Menggunakan evaluasi tengah semester
+Link : https://youtu.be/z71yr5ZDguU
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 Link : https://youtu.be/ajzSp1y_33Q
@@ -148,6 +148,7 @@ Link : https://youtu.be/f_Znxo7eS3I
 ![Current Climate Change Report](https://github.com/mdyoo129/task/assets/144449995/79632156-95bb-431d-a184-dfc31ec8599f)
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
+Link : https://youtu.be/VRbdZw_KuZE
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 Link : https://youtu.be/6sBvsWKBHBs
