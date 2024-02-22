@@ -271,3 +271,4 @@ Style guide atau panduan gaya adalah dokumen rinci mengenai aturan dan pedoman y
 ![Sertifikat Course IT](https://github.com/mdyoo129/task/assets/144449995/0d5b0fee-23d8-4178-879d-398aae08b930)
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+Link : https://youtu.be/xMt4h3i-7J8
